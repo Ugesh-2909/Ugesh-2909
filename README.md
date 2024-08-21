@@ -16,11 +16,11 @@ Computer science with business system student
 ### I code in 
 
 <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="50" height="50"/><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="50" height="50"/><img width="50" height="50" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="50" height="50"/>
-<img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" width="50" height="50"/> <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="50" height="50"/><img width="50" height="50" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000"/><img width="50" height="50" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+<img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" width="50" height="50"/> <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="50" height="50"/><img width="50" height="50" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000"/><br/><img width="50" height="50" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/><img width="50" height="50" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
 
 ### Tools and IDE I use
 
-<img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="50" height="50"/>
+<img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="50" height="50"/><img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ugeshpraavin_D?theme=dark&font=Baloo%20Chettan%202)
 
