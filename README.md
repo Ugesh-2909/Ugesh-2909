@@ -4,7 +4,7 @@ Computer science with business system student
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"/>
 
-- 👀 I’m interested in Technology
+- 👀 I’m interested in New Technology
 - 🌱 I’m currently learning Full stack 
 - 💞️ I’m looking to collaborate on Airtificial Intelligence
 - 📫 How to reach me
