@@ -9,7 +9,7 @@ Computer science with business system student
 - 💞️ I’m looking to collaborate on Airtificial Intelligence
 - 💫 Check out my personal [Portfolio](https://ugesh-praavin.vercel.app)
 - 📫 How to reach me
-  <br/> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ugesh-praavin-1395a4314/) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/allabout_ugesh/)
+  <br/> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ugesh-praavin/) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/allabout_ugesh/)
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love anime
